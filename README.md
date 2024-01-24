@@ -9,11 +9,14 @@ Output:
 
 
 
+
 <img width="1366" alt="Screenshot 2024-01-24 at 11 16 10 PM" src="https://github.com/charanraj28/To-Dos-List/assets/97870117/a4f6e6d9-fdcd-4b35-9940-a8ee4d52967f">
 
 
 
+
 <img width="1367" alt="Screenshot 2024-01-24 at 11 16 29 PM" src="https://github.com/charanraj28/To-Dos-List/assets/97870117/c83ae187-54c9-4b84-b6d1-4f2678cfb6d0">
+
 
 
 

@@ -3,6 +3,8 @@ The To-Do List Web Application offers a straightforward yet effective solution f
 
 
 Output:
+
+
 <img width="1367" alt="Screenshot 2024-01-24 at 11 14 38 PM" src="https://github.com/charanraj28/To-Dos-List/assets/97870117/a2a8c9b4-db30-418b-bb5b-74ede1a54c36">
 
 
